@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Servlet2/src/main/webapp/ex10회원가입실습.html&apos; to &apos;Ex03Join.html&apos;" description="Rename resource &apos;ex10회원가입실습.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/ex10회원가입실습.html" name="Ex03Join.html" stamp="1663817940855" updateReferences="true"/>
+</session>

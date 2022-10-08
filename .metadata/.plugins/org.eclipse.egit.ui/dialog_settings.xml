@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/skthdus/WebServ.git"/>
+		<item value="https://github.com/skthdus/WebServer.git"/>
+		<item value="https://github.com/skthdus/eclipse.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="skthdus &lt;ssoy617@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="skthdus &lt;ssoy617@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\smhrd\git\CookieSession\.git">
+			<item value="false"/>
+			<item value="skthdus &lt;ssoy617@gmail.com&gt;"/>
+			<item value="CookeSession"/>
+			<item value="skthdus &lt;ssoy617@gmail.com&gt;"/>
+			<item value="66576e3a0079833b4c5ba5a4de4fd639a5085406"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+		<list key="C:\Users\smhrd\git\eclipse\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\smhrd\git\project-js\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\smhrd\git\repository\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\smhrd\git\JSP1\JSP1\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\smhrd\git\JSP2\JSP2\.git">
+			<item value="false"/>
+			<item value="skthdus &lt;ssoy617@gmail.com&gt;"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;Commit"/>
+			<item value="skthdus &lt;ssoy617@gmail.com&gt;"/>
+			<item value="1efd0615d3ce59b36687da9f309a47ced47adaf0"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+		<list key="C:\Users\smhrd\git\Scope\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\smhrd\git\Servlet1\Servlet1\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="155"/>
+		<item key="DIALOG_Y_ORIGIN" value="223"/>
+		<item key="DIALOG_WIDTH" value="666"/>
+		<item key="DIALOG_HEIGHT" value="458"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="204"/>
+		<item key="DIALOG_Y_ORIGIN" value="175"/>
+		<item key="DIALOG_WIDTH" value="632"/>
+		<item key="DIALOG_HEIGHT" value="296"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

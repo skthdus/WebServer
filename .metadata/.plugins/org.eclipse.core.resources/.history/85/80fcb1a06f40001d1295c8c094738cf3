@@ -1,0 +1,40 @@
+package com.smhrd.controller;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+public class FrontController extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		//어디에서 온 요청인지 url 확인
+		String reqUri = request.getRequestURI();
+		System.out.println(reqUri);
+		
+		String context = request.getContextPath();
+		System.out.println(context);
+		
+		String resUri = reqUri.substring(context.length());
+		System.out.println(resUri);
+		
+		if(resUri.equals("/JoinCon.do")) { //forwarding
+			
+		}else { //redirecting
+			if(resUri.equals("/LoginCon.do")) {
+			
+			}else if(resUri.equals("/UpdateCon.do")) {
+				
+			}else if(resUri.equals("/DeleteCon.do")) {
+				
+			} else if (resUri.equals("/LogoutCon.do")) {
+				
+			}
+		}
+	}
+
+}
